@@ -3,4 +3,4 @@ __pyc*__
 *.nc
 .vscode/
 .DS_Store
-*.png
+
